@@ -1,11 +1,14 @@
 # Clotho dataset code
 
 ----
-**NOTICE**: This code is transferred to a new repository: https://github.com/audio-captioning/clotho-dataset
+## NOTICE: This code is transferred to a new repository 
+
+**Link to new repository:** https://github.com/audio-captioning/clotho-dataset
 
 The current repository will not be updated any more. Any issues will be taken into account, but the updated code will be pushed at the new repository. 
 
 Sorry for the inconvenience!
+
 ----
 
 Welcome to the repository of Clotho dataset. 
