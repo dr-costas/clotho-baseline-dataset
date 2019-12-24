@@ -1,5 +1,13 @@
 # Clotho dataset code
 
+----
+**NOTICE**: This code is transferred to a new repository: https://github.com/audio-captioning/clotho-dataset
+
+The current repository will not be updated any more. Any issues will be taken into account, but the updated code will be pushed at the new repository. 
+
+Sorry for the inconvenience!
+----
+
 Welcome to the repository of Clotho dataset. 
 
 Here you can find the code that will create numpy files with
@@ -18,12 +26,6 @@ be found at: https://arxiv.org/abs/1910.09387
 If you use the code in this repository to handle the Clotho dataset, then you can
 find useful the `DataLoader` in the
 [Clotho data loader repository](https://github.com/dr-costas/clotho-dataloader).
-
-**NOTICE**: This code is transferred to a new repository: https://github.com/audio-captioning/clotho-dataset
-
-The current repository will not be updated any more. Any issues will be taken into account, but the updated code will be pushed at the new repository. 
-
-Sorry for the inconvenience!
 
 ----
 
